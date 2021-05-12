@@ -1,0 +1,1 @@
+net use P: \\dfsvideotron\VP-QT \persistent:no
